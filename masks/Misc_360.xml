@@ -1,0 +1,26 @@
+<annotation>
+    <folder>images</folder>
+    <filename>Misc_360.png</filename>
+    <size>
+        <width>327</width>
+        <height>327</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Target</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <pixels>
+            <id>0</id>
+        </pixels>
+        <bndbox>
+            <xmin>35</xmin>
+            <ymin>12</ymin>
+            <xmax>40</xmax>
+            <ymax>15</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+    <folder>images</folder>
+    <filename>Misc_137.png</filename>
+    <size>
+        <width>456</width>
+        <height>278</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Target</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <pixels>
+            <id>0</id>
+        </pixels>
+        <bndbox>
+            <xmin>407</xmin>
+            <ymin>7</ymin>
+            <xmax>440</xmax>
+            <ymax>18</ymax>
+        </bndbox>
+    </object>
+</annotation>
