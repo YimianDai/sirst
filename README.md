@@ -1,11 +1,17 @@
 Single-frame InfraRed Small Target (SIRST) Benchmark
 ==============
 
+A dataset proposed in "Asymmetric Contextual Modulation for Infrared Small Target Detection" <>
+
 ## Dataset Description
+
+SIRST is a dataset specially constructed for **single-frame** infrared small target detection, in which the images are selected from hundreds of infrared sequences for different scenarios. 
 
 ![image](./gallery.png)
 
 ![annotation](./annotation.png)
+
+The bounding box and semantic segmentation annotations are available now. The rest annotation forms will come soon.
 
 <div>
 <img src=https://raw.githubusercontent.com/YimianDai/imgbed/master/github/sirst/BMFPN_DENTIST_Target_Number.png width=33%>
