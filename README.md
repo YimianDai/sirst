@@ -28,3 +28,17 @@ A comparison of 19 methods can be found at <https://github.com/YimianDai/open-ac
 
 The full toolkit will come soon. 
 Some implementations of our proposed methods can be found at [DENTIST](https://github.com/YimianDai/DENTIST), [ACM](https://github.com/YimianDai/open-acm), and [ALCNet](https://github.com/YimianDai/open-alcnet).
+
+## Citation
+
+Please cite our paper in your publications if our work helps your research. BibTeX reference is as follows.
+
+```
+@inproceedings{dai21acm,
+  title   =  {Asymmetric Contextual Modulation for Infrared Small Target Detection},
+  author  =  {Yimian Dai and Yiquan Wu and Fei Zhou and Kobus Barnard},
+  booktitle =  {{IEEE} Winter Conference on Applications of Computer Vision, {WACV} 2021}
+  year    =  {2021}
+}
+```
+
