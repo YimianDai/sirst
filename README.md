@@ -40,5 +40,13 @@ Please cite our paper in your publications if our work helps your research. BibT
   booktitle =  {{IEEE} Winter Conference on Applications of Computer Vision, {WACV} 2021}
   year    =  {2021}
 }
+
+@article{TGRS21ALCNet,
+  author    = {{Dai}, Yimian and {Wu}, Yiquan and {Zhou}, Fei and {Barnard}, Kobus},
+  title   = {{Attentional Local Contrast Networks for Infrared Small Target Detection}},
+  journal = {IEEE Transactions on Geoscience and Remote Sensing},
+  pages   = {1--12},
+  year    = {2021},
+}
 ```
 
