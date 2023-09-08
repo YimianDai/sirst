@@ -3,6 +3,11 @@ Single-frame InfraRed Small Target (SIRST) Benchmark
 
 A dataset proposed in "Asymmetric Contextual Modulation for Infrared Small Target Detection" <https://arxiv.org/abs/2009.14530>
 
+**Update**:
+
+- The improved version, SIRST v2, has been released. Please visit <https://github.com/YimianDai/open-sirst-v2> to check the new dataset.
+- The name of this dataset series is 'SIRST' and 'SIRST v2'. Please don't call it as 'NUAA-SIRST'.
+
 ## Dataset Description
 
 SIRST is a dataset specially constructed for **single-frame** infrared small target detection, in which the images are selected from hundreds of infrared sequences for different scenarios. 
