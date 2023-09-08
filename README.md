@@ -39,12 +39,16 @@ Some implementations of our proposed methods can be found at [DENTIST](https://g
 Please cite our paper in your publications if our work helps your research. BibTeX reference is as follows.
 
 ```
-@inproceedings{dai21acm,
-  title   =  {Asymmetric Contextual Modulation for Infrared Small Target Detection},
-  author  =  {Yimian Dai and Yiquan Wu and Fei Zhou and Kobus Barnard},
-  booktitle =  {{IEEE} Winter Conference on Applications of Computer Vision, {WACV} 2021}
-  year    =  {2021}
+@article{TGRS23OSCAR,
+  author    = {{Dai}, Yimian and {Li}, Xiang and {Zhou}, Fei and {Qian}, Yulei and {Chen}, Yaohong and {Yang}, Jian },
+  title   = {{One-Stage Cascade Refinement Networks for Infrared Small Target Detection}},
+  journal = {IEEE Transactions on Geoscience and Remote Sensing},
+  pages   = {1--17},
+  year    = {2023},
 }
+
+Y Dai, X Li, F Zhou, Y Qian, Y Chen, J Yang
+IEEE Transactions on Geoscience and Remote Sensing 61, 1-17
 
 @article{TGRS21ALCNet,
   author    = {{Dai}, Yimian and {Wu}, Yiquan and {Zhou}, Fei and {Barnard}, Kobus},
@@ -52,6 +56,13 @@ Please cite our paper in your publications if our work helps your research. BibT
   journal = {IEEE Transactions on Geoscience and Remote Sensing},
   pages   = {1--12},
   year    = {2021},
+}
+
+@inproceedings{dai21acm,
+  title   =  {Asymmetric Contextual Modulation for Infrared Small Target Detection},
+  author  =  {Yimian Dai and Yiquan Wu and Fei Zhou and Kobus Barnard},
+  booktitle =  {{IEEE} Winter Conference on Applications of Computer Vision, {WACV} 2021}
+  year    =  {2021}
 }
 ```
 
